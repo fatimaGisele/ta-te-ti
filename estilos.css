@@ -1,0 +1,68 @@
+
+.holis{
+    display: flex;
+   justify-content: center;
+   align-items: center;
+}
+body{
+    margin: 0;
+    background-color:#617980;
+    font-family: 'Hind', sans-serif;
+}
+#h1{
+    text-align: center;
+    color: #aff8ec;
+    font-size: 5rem;
+    font-family: 'Hind', sans-serif;
+}
+h2{
+    text-align: center;
+    font-size: 2rem;
+    color: blanchedalmond;
+    font-family: 'Hind', sans-serif;
+    font-size: 2.5rem;
+}
+.mensaje{
+    margin: 20px;
+    padding: 10px;
+    font-size: 2.5rem;
+    box-shadow: 15px 10px 10px #09465c;
+    color: blanchedalmond;
+    font-weight: 600;
+}
+.casillero{
+    background: linear-gradient(to right, #d25778, #e2a69d,#f0dd74,#76c7e4);
+    /*background-color:#e2a69d;*/
+    color:  #0c5874;
+    border: 3px solid #9e726b;
+    border-radius: 15px;
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    font-size: 3rem;
+    font-family: 'Nerko One', cursive; 
+    box-shadow: 15px 10px 10px #09465c;
+}
+/* .reset{
+    text-align: center;
+    border-radius: 15px;
+    border: 2px solid #aff8ec;
+    width: 200px;
+    height: 60px;
+    margin: 20px;
+    padding: 10px;
+    font-size: 1.5rem;
+    background: linear-gradient(to right, #d25778, #ec585c,#e7d155,#56a8c6);
+    box-shadow: 15px 10px 10px #09465c;
+    color: blanchedalmond;
+    font-weight: 600;
+} */
+footer{
+    background-color: #617980;
+    color: #e2a69d;
+    font-family: 'Nerko One', cursive;
+    text-align: center;
+    font-size: 2.5rem;
+    margin: 25px;
+    
+}
